@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/PRYe3JW.gif)
+![](https://i.imgur.com/Qq3TTb2.gif)
 > 新冠病毒疫情改變了世界，在這樣的世界中，能夠根據完善的資料做出決策至關重要
